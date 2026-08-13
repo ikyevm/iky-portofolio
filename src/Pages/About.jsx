@@ -229,7 +229,7 @@ const AboutPage = () => {
                 data-aos-duration="1300"
                 itemProp="name"
               >
-                Eki Zulfar Rachman
+                0xikyy EVM/ACC
               </span>
             </h2>
             
@@ -238,8 +238,8 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-        Saya adalah mahasiswa Teknik Informatika yang berfokus pada pengembangan Front-End. 
-Saya berfokus pada penciptaan pengalaman digital yang menarik dan selalu berupaya memberikan solusi terbaik dalam setiap proyek yang saya kerjakan.
+        I’m a Web3 Contributor, AI Researcher, and Content Creator. 
+        I focus on exploring emerging technologies, Web3 ecosystems, and AI through research, community contributions, and knowledge sharing.
                   </p>
 
                {/* Quote Section */}
