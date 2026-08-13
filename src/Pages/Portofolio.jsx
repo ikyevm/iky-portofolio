@@ -208,12 +208,12 @@ export default function FullWidthTabs() {
             backgroundClip: 'text',
             WebkitTextFillColor: 'transparent'
           }}>
-            Portfolio Showcase
+            My work & contribution
           </span>
         </h2>
         <p className="text-slate-400 max-w-2xl mx-auto text-sm md:text-base mt-2">
-          Explore my journey through projects, certifications, and technical expertise. 
-          Each section represents a milestone in my continuous learning path.
+          Explore my journey through Web3 contributions, AI research, projects, and technical exploration.
+          Each section reflects what I build, learn, and contribute to the ecosystem.
         </p>
       </div>
 
