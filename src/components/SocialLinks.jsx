@@ -35,7 +35,7 @@ const socialLinks = [
     displayName: "Youtube",
     subText: "@Rifki Farm",
     icon: Youtube,
-    url: "https://www.youtube.com/@rifkifarm",
+    url: "https://www.youtube.com/@rifkifarms",
     color: "#FF0000",
     gradient: "from-[#FF0000] to-[#CC0000]",
   },
